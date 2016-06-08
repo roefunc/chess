@@ -1,0 +1,15 @@
+*.exe
+*.swp
+*.class
+*.o
+*.hi
+.DS_Store
+*.gradle
+*.cmi
+*.cmx
+*.hi
+*.prof
+*.cmake
+CMakeCache.*
+**/node_modules/*
+
